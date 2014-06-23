@@ -1,0 +1,22 @@
+{
+  "name": "lambda.js",
+  "version": "0.0.0",
+  "description": "Examples from the book Functional Javascript ",
+  "main": "lambda.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/giuliandrimba/lambda.js.git"
+  },
+  "author": "Giulian Drimba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/giuliandrimba/lambda.js/issues"
+  },
+  "homepage": "https://github.com/giuliandrimba/lambda.js",
+  "dependencies": {
+    "underscore": "~1.6.0"
+  }
+}
