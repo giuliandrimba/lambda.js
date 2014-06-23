@@ -1,4 +1,4 @@
-fp.js
+λ.js
 ====
 
 > This is a huge advantage of functional programming, pieces fitting together like Lego blocks, data flowing and transforming
